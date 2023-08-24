@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+
+.number{
+    
+    display: flex;
+    flex-wrap: wrap;
+  
+} 
+.item{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 2px 0px 2px;
+    
+}
+.one{
+    background-color: red;
+}
+.two{
+    background-color: blue;
+}
